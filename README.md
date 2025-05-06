@@ -1,6 +1,7 @@
 ## 📘 Learning Plan - Frontend
 ## 🛠️ Learning Plan - Backend API
 
+
 The backend provides RESTful endpoints to manage learning plans. It supports full CRUD operations, integrates with Spring Security for OAuth2 authentication, and handles validation and error responses. Endpoints include `/api/v1/plans` with support for GET, POST, PUT, and DELETE methods.
 
 ## 🛠️ Learning Plan - Backend API
