@@ -1,7 +1,7 @@
-package com.photolearn.learningplatform1.controller;
+package com.skillshiring.demo.controller;
 
-import com.photolearn.learningplatform1.entity.LearningPlan;
-import com.photolearn.learningplatform1.service.LearningPlanService;
+import com.skillshiring.demo.models.LearningPlan;
+import com.skillshiring.demo.service.LearningPlanService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

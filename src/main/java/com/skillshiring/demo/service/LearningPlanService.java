@@ -1,8 +1,8 @@
 
-package com.photolearn.learningplatform1.service;
+package com.skillshiring.demo.service;
 
-import com.photolearn.learningplatform1.entity.LearningPlan;
-import com.photolearn.learningplatform1.repository.LearningPlanRepository;
+import com.skillshiring.demo.models.LearningPlan;
+import com.skillshiring.demo.Repository.LearningPlanRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

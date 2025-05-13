@@ -1,6 +1,6 @@
-package com.photolearn.learningplatform1.repository;
+package com.skillshiring.demo.Repository;
 
-import com.photolearn.learningplatform1.entity.LearningPlan;
+import com.skillshiring.demo.models.LearningPlan;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 

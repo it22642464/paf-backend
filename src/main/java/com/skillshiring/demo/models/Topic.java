@@ -1,4 +1,4 @@
-package com.photolearn.learningplatform1.entity;
+package com.skillshiring.demo.models;
 
 import lombok.*;
 
